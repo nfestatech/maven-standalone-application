@@ -1,1 +1,1 @@
-# maven-stanalone-application
+# maven-standalone-application
