@@ -8,11 +8,11 @@
         <packaging>jar</packaging>
 
         <name>maven-stanalone-application</name>
-        <url>http://mylandmarktech.com</url>
+        <url>http://nfestatech.com</url>
 
         <organization>
-                <name>Landmark Technologies</name>
-                <url>http://mylandmarktech.com/</url>
+                <name>Nfesta Technologies</name>
+                <url>http://mynfestatech.com/</url>
         </organization>
 
         <description>Maven Standalone Application</description>
@@ -42,14 +42,14 @@
                 mvn scm:update -->
         <!--
         <scm>
-                <connection>scm:git:https://github.com/LandmarkTechnology/maven-standalone-applicationn</connection>
-                <developerConnection>scm:git://github.com/LandmarkTechnology/maven-standalone-application</developerConnection>
+                <connection>scm:git:https://github.com/NfestaTechnology/maven-standalone-applicationn</connection>
+                <developerConnection>scm:git://github.com/NfestaTechnology/maven-standalone-application</developerConnection>
                 <tag>HEAD</tag>
-                <url>https://github.com/LandmarkTechnology/maven-standalone-application</url>
+                <url>https://github.com/NfestaTechnology/maven-standalone-application</url>
         </scm>
         <issueManagement>
                 <system>GitHub</system>
-                <url>//github.com/LandmarkTechnology/maven-standalone-application/issues</url>
+                <url>//github.com/NfestaTechnology/maven-standalone-application</url>
         </issueManagement>
         -->
         <build>
